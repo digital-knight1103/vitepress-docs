@@ -3,16 +3,20 @@
 layout: home
 
 hero:
-  name: "e_msi instruction"
-  text: "vitapress"
+  name: "e_msi it system"
+  text: "Zadania Technical Copywriter / Tester "
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Aplikowanie e_msi
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Zakładanie konta gmail
       link: /api-examples
+    - theme: alt
+      text: składnia markdown
+      link: /api-examples
+
 
 features:
   - title: Feature A

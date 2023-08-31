@@ -1,6 +1,6 @@
-# Markdown Extension Examples
+# Przykłady rozszerzeń Markdown
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+Ta strona demonstruje niektóre z wbudowanych rozszerzeń markdown dostarczanych przez VitePress.
 
 ## Syntax Highlighting
 

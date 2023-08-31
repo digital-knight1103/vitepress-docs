@@ -2,27 +2,34 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "e_msi it system",
+  title: "Digital_Knight",
   description: "Zadania Technical Copywriter / Tester",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Start', link: '/' },
+      { text: 'Zadania', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Zadania',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'aplikowanie o prace ', link: '/msi-examples' },
+          { text: 'zakładanie konta gmail', link: '/gmail-examples' }
+        ]
+      },
+      {
+        text: 'Markdown',
+        items: [
+          { text: 'ściąga składni markdown', link: '/markdown-examples' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/digital-knight1103' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/pawe%C5%82bokszczanin/' }
     ]
   }
 })
