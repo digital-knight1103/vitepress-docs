@@ -1,10 +1,10 @@
-# Przykłady rozszerzeń Markdown
+# Przykłady rozszerzeń Markdown 💜
 
-Ta strona demonstruje niektóre z wbudowanych rozszerzeń markdown dostarczanych przez VitePress.
+Ta strona demonstruje niektóre z wbudowanych rozszerzeń markdown dostarczanych przez VitePress. 🚀
 
-## Syntax Highlighting
+## Podświetlanie składni
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
+VitePress zapewnia podświetlanie składni obsługiwane przez [Shiki](https://github.com/shikijs/shiki), z dodatkowymi funkcjami, takimi jak podświetlanie linii:
 
 **Input**
 
@@ -32,7 +32,7 @@ export default {
 }
 ```
 
-## Custom Containers
+## Kontenery 
 
 **Input**
 
@@ -61,25 +61,40 @@ This is a details block.
 **Output**
 
 ::: info
-This is an info box.
+To jest okno informacyjne.
 :::
 
 ::: tip
-This is a tip.
+To jest wskazówka.
 :::
 
 ::: warning
-This is a warning.
+To jest ostrzeżenie.
 :::
 
 ::: danger
-This is a dangerous warning.
+To niebezpieczne ostrzeżenie.
 :::
 
 ::: details
-This is a details block.
+To jest blok szczegółów.
 :::
 
-## More
 
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+## Emotikony
+
+**Input**
+
+```
+:tada: :100:
+```
+
+**Output**
+
+🎉 💯
+
+Szukasz emotem oto [lista wszystkich emotek](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.json) 
+
+## Źródła wiedzy
+
+Zapoznaj się z dokumentacją [pełna lista rozszerzeń markdown](https://vitepress.dev/guide/markdown).

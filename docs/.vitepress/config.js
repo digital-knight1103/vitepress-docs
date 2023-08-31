@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Digital_Knight",
+  lang: 'pl-PL',
   description: "Zadania Technical Copywriter / Tester",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

@@ -44,6 +44,7 @@ const { site, theme, page, frontmatter } = useData()
 ### Page Frontmatter
 <pre>{{ frontmatter }}</pre>
 
-## More
+## Źródła wiedzy
 
-Check out the documentation for the [full list of runtime APIs](https://vitepress.dev/reference/runtime-api#usedata).
+Wszystkie informacje na temat Tailwind dostępne są ns stronie [https://tailwindcss.com/](https://tailwindcss.com/).
+
