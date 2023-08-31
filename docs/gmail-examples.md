@@ -10,9 +10,9 @@ Zakładanie konta mailowego na platformie **www.gmail.com** krok po kroku. Na ws
 4. Wprowadź swoje dane osobowe.
 5. Wybierz nazwę użytkownika i hasło.
 6. Uzupełnij dodatkowe informacje o koncie.
-7. Zaakceptuj warunki korzystania i zasady prywatności.
-8. Skonfiguruj ustawienia konta, jeśli to konieczne.
-8. Witaj w swojej nowej skrzynce odbiorczej!
+7. Skonfiguruj ustawienia konta, jeśli to konieczne.
+8. Zaakceptuj warunki korzystania i zasady prywatności.
+9. Witaj w swojej nowej skrzynce odbiorczej!
 
 ## Szczegółowe instrukcje:
 
@@ -52,4 +52,55 @@ Kolejnym krokiem będzie wybranie nazwy naszego adresu mailowego. Będą podane 
 
 ![](./public/email.png)
 
-Wszystkie informacje na temat Tailwind dostępne są ns stronie [https://tailwindcss.com/](https://tailwindcss.com/).
+### 5. Wybierz nazwę użytkownika i hasło.
+
+Następnie zostaniemy poproszeni o utwórz silnego hasła składającego się z kombinacji liter, cyfr i symboli
+
+::: danger Hasło
+Hasło jest bardzo ważnym elementem zabezpieczającym. Pamiętaj im trudniejsze hasło tym trudniej będzie się niepożadanym osobom włamać na twoje konto.
+:::
+
+![](./public/pass.png)
+
+Opcjonalnie w nastepnym kroku możemy dodać adres pomocniczy. Jest to adres, który zostanie użyty, aby skontaktować się z Tobą w razie wykrycia nietypowej aktywności na Twoim koncie lub pomóc Ci w odzyskaniu dostępu do niego.
+
+### 6. Uzupełnij dodatkowe informacje o koncie.
+
+![](./public/adress.png)
+
+Opcjonalnym wyborem jest również dodanie numeru telefonu.
+
+::: info
+Google będzie używać tego numeru tylko do zabezpieczania konta. Nie będzie on widoczny dla innych osób. Później możesz określić, czy numer ma być używany do innych celów.
+:::
+
+![](./public/phone.png)
+
+Jednym z końcowych kroków jest sprawdzenie sowich danych.
+
+![](./public/info.png)
+
+### 7. Skonfiguruj ustawienia konta, jeśli to konieczne.
+
+Na sam koniec zostaniemy poproszeni o wybranie ustawień personalizacji. Mamy dwa wybory. 
+
+::: tip
+Warto poświęcić ustawieniom trochę czasu. Związane jest to z dopasowaniem wyświetlania treści i reklam.
+:::
+
+![](./public/setting.png)
+
+### 8. Zaakceptuj warunki korzystania i zasady prywatności:
+
+Po wprowadznieu danych i wstepnym skonfigurowaniu konta potwierdzamy ustawienia personalizacji i użycie plików cookie
+
+::: info
+Google może za parę tygodni przypomnieć abyś sprawdził ustawienia.
+:::
+
+![](./public/cookie.png)
+
+### 9. Witaj w swojej nowej skrzynce odbiorczej! 💌
+
+Właśnie zostało utworzone twoje konto googla wraz z pocztą gmail.  
+
