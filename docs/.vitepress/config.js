@@ -31,6 +31,11 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/digital-knight1103' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/pawe%C5%82bokszczanin/' }
-    ]
+    ],
+
+    footer: {
+      message: "Stworzone z Honorami",
+      copyright: "Copyright © 2023 Digital_Knight",
+    },
   }
 })

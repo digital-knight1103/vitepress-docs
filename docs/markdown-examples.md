@@ -85,12 +85,12 @@ To jest blok szczegółów.
 **input**
 
 ```
-![](https://images.pexels.com/photos/106118/pexels-photo-106118.jpeg){data-zoomable}
+![An image](https://images.pexels.com/photos/106118/pexels-photo-106118.jpeg)
 ```
 
 **output**
 
-![](https://images.pexels.com/photos/106118/pexels-photo-106118.jpeg){data-zoomable}
+![](https://images.pexels.com/photos/106118/pexels-photo-106118.jpeg)
 
 
 ## Emotikony
