@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Aplikowanie e_msi
-      link: /markdown-examples
+      link: /msi-examples
     - theme: alt
       text: Zakładanie konta gmail
-      link: /api-examples
+      link: /gmail-examples
     - theme: alt
       text: składnia markdown
       link: /api-examples
