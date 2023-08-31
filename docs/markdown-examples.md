@@ -80,6 +80,18 @@ To niebezpieczne ostrzeżenie.
 To jest blok szczegółów.
 :::
 
+## Zdjęcia
+
+**input**
+
+```
+![](https://images.pexels.com/photos/106118/pexels-photo-106118.jpeg){data-zoomable}
+```
+
+**output**
+
+![](https://images.pexels.com/photos/106118/pexels-photo-106118.jpeg){data-zoomable}
+
 
 ## Emotikony
 

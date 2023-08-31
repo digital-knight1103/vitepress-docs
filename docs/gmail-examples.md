@@ -1,8 +1,10 @@
-# Zadanie gmail
+# Konto email - Gmail
 
-Zakładanie konta meilowego w domenie **gmail.com**
+Zakładanie konta mailowego na platformie **www.gmail.com**
 
 ## Syntax Highlighting
+
+![](https://images.pexels.com/photos/106118/pexels-photo-106118.jpeg){data-zoomable}
 
 ## Źródła wiedzy
 
