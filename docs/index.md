@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "e_msi it system"
-  text: "Zadania Technical Copywriter / Tester "
-  tagline: My great project tagline
+  text: "Paweł Bokszczanin"
+  tagline: Zadania Technical Copywriter / Tester 
   actions:
     - theme: brand
       text: Aplikowanie e_msi
@@ -15,7 +15,7 @@ hero:
       link: /gmail-examples
     - theme: alt
       text: składnia markdown
-      link: /api-examples
+      link: /markdown-examples
 
 
 features:

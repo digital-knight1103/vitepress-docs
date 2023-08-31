@@ -1,6 +1,7 @@
 # Przykłady rozszerzeń Markdown 💜
 
 Ta strona demonstruje niektóre z wbudowanych rozszerzeń markdown dostarczanych przez VitePress. 🚀
+Jest pomocna w celu szybkiego przypomnienia składni aby nasza dokumentacja była przejrzysta. 
 
 ## Podświetlanie składni
 
