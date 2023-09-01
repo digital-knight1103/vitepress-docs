@@ -2,49 +2,47 @@
 outline: deep
 ---
 
-# Aplikowanie
+# Aplikowanie o pracę **https://e-msi.pl/**
 
-Aplikować o pracę za pomocą CV rozpoczynając od strony głównej https://e-msi.pl/
+Aplikować o pracę za pomocą CV rozpoczynając od strony głównej https://e-msi.pl/ krok po kroku.
 
-The main `useData()` API can be used to access site, theme, and page data for the current page. It works in both `.md` and `.vue` files:
+## Kroki w skrócie:
 
-```md
-<script setup>
-import { useData } from 'vitepress'
+1. Otwórz przeglądarkę internetową.
+2. Przejdź na stronę główną https://e-msi.pl/
+3. Kliknij przycisk kariera w stopce strony.
+4. Zapoznaj się ze ścieżką kariery.
+5. Kliknij przycisk "Wyślij swoje CV"
+6. Wypełnioj formularz aplikacji
+7. Wgraj plik ze swoim CV
+8. Zaznacz wymagane zgody
+9. Wyślij formularz
 
-const { theme, page, frontmatter } = useData()
-</script>
+## Szczegółowe instrukcje:
 
-## Results
+### 1. Otwórz przeglądarkę internetową:
 
-### Theme Data
-<pre>{{ theme }}</pre>
+Uruchom swoją ulubioną przeglądarkę internetową (np. Google Chrome, Mozilla Firefox, Microsoft Edge).
 
-### Page Data
-<pre>{{ page }}</pre>
+### 2. Przejdź na stronę główną e-msi.pl
 
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
-```
+W pasku adresu przeglądarki wpisz ["https://e-msi.pl/"](https://e-msi.pl/) i potwiedź lub kliknij podświetlony link. Strona główna powinna się załadować.
 
-<script setup>
-import { useData } from 'vitepress'
+![](./public/msi.png)
 
-const { site, theme, page, frontmatter } = useData()
-</script>
+### 3. Kliknij przycisk "kariera" w stopce strony.
 
-## Results
+Przewiń na sam dół strony aż do stopki. W stopce w ostatniej kolumnie znajduje się link "Kariera" który przekieruje nas do podstrony z opisem ścieżek kariery w firmie e_msi oraz mozliwością aplikowania.
 
-### Theme Data
-<pre>{{ theme }}</pre>
+![](./public/footer.png)
 
-### Page Data
-<pre>{{ page }}</pre>
+### 4. Zapoznaj się ze ścieżką kariery.
 
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
+Na podstronie kariery warto zapoznać się z obecnymi ofertami pracy, oferowanymi benefitami, ścieżką kariery oraz samym pracodawcy. 
+
 
 ## Źródła wiedzy
 
 Wszystkie informacje na temat Tailwind dostępne są ns stronie [https://tailwindcss.com/](https://tailwindcss.com/).
 
+The main `useData()` API can  and `.vue`

@@ -14,18 +14,18 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Markdown',
+        items: [
+          { text: 'Przykłady rozszerzeń Markdown', link: '/markdown-examples' },
+        ]
+      },
+      {
         text: 'Zadania',
         items: [
           { text: 'aplikowanie o prace ', link: '/msi-examples' },
           { text: 'zakładanie konta gmail', link: '/gmail-examples' },
         ]
       },
-      {
-        text: 'Markdown',
-        items: [
-          { text: 'ściąga składni markdown', link: '/markdown-examples' },
-        ]
-      }
     ],
 
     socialLinks: [

@@ -13,10 +13,6 @@ hero:
     - theme: alt
       text: Zakładanie konta gmail
       link: /gmail-examples
-    - theme: alt
-      text: składnia markdown
-      link: /markdown-examples
-
 
 features:
   - icon: 🔥

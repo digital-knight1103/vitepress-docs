@@ -1,4 +1,8 @@
-# Konto email - Gmail
+---
+outline: deep
+---
+
+# Zakładanie konta mailowego - Gmail
 
 Zakładanie konta mailowego na platformie **www.gmail.com** krok po kroku. Na wstepnie zostaną pokazane wszystkie kroki w skrócie a nastepnie zostaną wszystkie szczegółowo opisane wraz z poglądowymi zdjęciami. 
 
