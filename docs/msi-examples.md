@@ -30,19 +30,19 @@ Jeżeli strona nie wyświetla się prawidłowo sprawdź czy masz włączone skry
 
 ### 2. Przejdź na stronę główną e-msi.pl
 
-W pasku adresu przeglądarki wpisz ["https://e-msi.pl/"](https://e-msi.pl/) i potwiedź lub kliknij podświetlony link. Strona główna powinna się załadować.
+W pasku adresu przeglądarki wpisz ["https://e-msi.pl/"](https://e-msi.pl/) i potwierdź lub kliknij podświetlony link. Strona główna powinna się załadować.
 
 ![](./public/msi.png)
 
-### 3. Kliknij przycisk "kariera" w stopce strony.
+### 3. Kliknij przycisk "kariera" w stopce strony
 
-Przewiń na sam dół strony aż do stopki. W stopce w ostatniej kolumnie znajduje się link "Kariera" który przekieruje nas do podstrony z opisem ścieżek kariery w firmie e_msi oraz mozliwością aplikowania. ["https://e-msi.pl/kariera/"](https://e-msi.pl/kariera/)
+Przewiń na sam dół strony aż do stopki. W stopce w ostatniej kolumnie znajduje się link "Kariera" który przekieruje nas do podstrony z opisem ścieżek kariery w firmie e_msi oraz możliwością aplikowania o pracę. ["https://e-msi.pl/kariera/"](https://e-msi.pl/kariera/)
 
 ![](./public/footer.png)
 
-### 4. Zapoznaj się ze ścieżką kariery.
+### 4. Zapoznaj się ze ścieżką kariery
 
-Na podstronie kariery warto zapoznać się z obecnymi ofertami pracy, oferowanymi benefitami, ścieżką kariery oraz samym pracodawcy. 
+Na podstronie kariery warto zapoznać się z obecnymi ofertami pracy, oferowanymi benefitami oraz ścieżką kariery.
 
 ### 5. Kliknij przycisk "Wyślij swoje CV"
 
@@ -56,11 +56,11 @@ Jeżeli została podjęta decyzja o aplikowaniu o pracę, mamy możliwość prze
 
 ![](./public/cv2.png)
 
-3. Trzecią miejscem przycisk w lewym dolnym rogu w zekcji "Jak do nas dołączyć ?"
+3. Trzecią miejscem przycisk w lewym dolnym rogu w sekcji "Jak do nas dołączyć ?"
 
 ![](./public/cv3.png)
 
-Po kliknięciu w którąś z podanych możliwości zostaniem przeniesieni do formularza aplikacyjnego.
+Po kliknięciu w którąś z podanych możliwości zostaniemy przekierowani do formularza aplikacyjnego.
 
 ### 6. Wypełnij formularz aplikacji
 
@@ -70,23 +70,25 @@ Na tym etapie wypełniamy formularz aplikacyjny. Musimy Podać swoje Imię, Nazw
 
 ### 7. Wgraj plik ze swoim CV
 
-Po wpisaniu danych warto było by dodać swoje CV. CV możemy dodać na dwa sposoby, poprzez kliknięcie przycisku "Browse" i wybraniu odpowiedniego pliku z naszego komputera lub przeciągnięcie naszgo dokumentu bezpośrednio na pole inputa.
-
-::: info 
-CV warto wysłać w pliku w odpowiednim formacie z rozrzerzeniem doc, docx, pdf. 
-:::
+Po wpisaniu danych warto dodać swoje CV. CV możemy dodać na dwa sposoby, poprzez kliknięcie przycisku "Browse" i wybraniu odpowiedniego pliku z naszego komputera lub przeciągnięcie naszego dokumentu bezpośrednio na pole inputa.
 
 ![](./public/form2.png)
 
+::: info 
+Zawsze zapisuj CV w PDF. To da Ci pewność, że dokument nie straci formatowania. Nie chcesz przecież, żeby misternie zaprojektowany życiorys stracił na wartości. Jeśli zapisz CV w formacie Word, możesz zniweczyć swoje starania o idealny format CV. 
+
+CV w formacie PDF wygląda bardziej profesjonalnie. Musisz unikać formatów, które dają odwrotne wrażenie, takich jak JPG or PNG, PSD, INDD czy AI. Jeśli rekruter nie używa któregoś z programu graficznych, po prostu nie będzie mógł nawet otworzyć Twojego dokumentu.  
+:::
+
 ### 8. Zaznacz wymagane zgody
 
-Ostatnim etapem w formularzu jest zapoznanie się z polityką prywatności oraz potwierdzeniu wymaganych zgód na przesyłanie informacji handlowych. Po odpowiednim zaznaczeniu zdody powiniem nam sie podświetlić przycisk "Wyślij" na dole formularza który jest również informacją o poprawnym wpisaniu danych (walidacja).
+Ostatnim etapem w formularzu jest zapoznanie się z polityką prywatności oraz potwierdzeniu wymaganych zgód na przesyłanie informacji handlowych. Po odpowiednim zaznaczeniu zdody powiniem nam sie podświetlić przycisk "Wyślij" na dole formularza który jest również informacją o poprawnym wpisaniu danych (walidacja danych).
 
 ![](./public/form3.png)
 
 ### 9. Wyślij formularz
 
-Klikamy przycis "Wyślij" i nasz formularz powinien zostać wysłany. Po poprawnym wysłaniu powinna wyświetlić się informacja `"Twoja wiadomość została wysłana. Dziękujemy."` 🎉
+Klikamy przycisk "Wyślij" i nasz formularz powinien zostać wysłany. Po poprawnym wysłaniu powinna wyświetlić się informacja `"Twoja wiadomość została wysłana. Dziękujemy."` 🎉
 
 
 
