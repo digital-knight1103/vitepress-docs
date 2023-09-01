@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Start', link: '/' },
-      { text: 'Zadania', link: '/markdown-examples' }
+      { text: 'Zadania', link: '/markdown-examples' },
     ],
 
     sidebar: [
@@ -17,7 +17,7 @@ export default defineConfig({
         text: 'Zadania',
         items: [
           { text: 'aplikowanie o prace ', link: '/msi-examples' },
-          { text: 'zakładanie konta gmail', link: '/gmail-examples' }
+          { text: 'zakładanie konta gmail', link: '/gmail-examples' },
         ]
       },
       {

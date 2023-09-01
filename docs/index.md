@@ -19,11 +19,14 @@ hero:
 
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🔥
+    title: Przepływ informacji w organizacji
+    details: Zarządzanie przepływem informacji pomiędzy działami, lokalizacjami i systemami to jedno z największych wyzwań w organizacjach.
+  - icon: 🦾
+    title: Digitalizacja i automatyzacja procesów
+    details: Najlepszy na rynku obieg zadań i dokumentów według Twojego projektu
+  - icon: 💾
+    title: Rozwiązania dziedzinowe
+    details: Potrzebujesz rozwiązania zbudowanego od podstaw? Nasze doświadczenie jest do Twojej dyspozycji.
 ---
 
