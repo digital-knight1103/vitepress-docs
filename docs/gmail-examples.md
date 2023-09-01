@@ -4,7 +4,7 @@ outline: deep
 
 # Zakładanie konta mailowego - Gmail
 
-Zakładanie konta mailowego na platformie **www.gmail.com** krok po kroku. Na wstepnie zostaną pokazane wszystkie kroki w skrócie a nastepnie zostaną wszystkie szczegółowo opisane wraz z poglądowymi zdjęciami. 
+Zakładanie konta mailowego na platformie **www.gmail.com** krok po kroku. Na wstępie zostaną pokazane wszystkie kroki w skrócie a nastepnie zostaną wszystkie szczegółowo opisane wraz z poglądowymi zdjęciami. 
 
 ## Kroki w skrócie:
 
@@ -30,7 +30,7 @@ Poczta gmail powinna działać bez problemów na wszystkich przeglądarkach
 
 ::: danger
 Jeżeli strona nie wyświetla się prawidłowo sprawdź czy masz włączone skrypy JavaScript ponieważ strona z nich korzysta.
-:::git 
+:::
 
 ### 2. Przejdź na stronę główną Googla.
 
@@ -56,13 +56,13 @@ Nastepnie zostaniemy przeniesieni do kolejnego formularza który będzie od nas 
 
 ![](./public/data.png)
 
-Kolejnym krokiem będzie wybranie nazwy naszego adresu mailowego. Będą podane propozycje oraz mamy mozliwość wprowadzenia własnej nazwy. 
+Kolejnym krokiem będzie wybranie nazwy naszego adresu mailowego. Będą podane propozycje oraz mamy możliwość wprowadzenia własnej nazwy. 
 
 ![](./public/email.png)
 
-### 5. Wybierz nazwę użytkownika i hasło.
+### 5. Wybierz nazwę użytkownika i hasło
 
-Następnie zostaniemy poproszeni o utwórz silnego hasła składającego się z kombinacji liter, cyfr i symboli
+Następnie zostaniemy poproszeni o utwórzenie silnego hasła składającego się z kombinacji liter, cyfr i symboli
 
 ::: danger Hasło
 Hasło jest bardzo ważnym elementem zabezpieczającym. Pamiętaj im trudniejsze hasło tym trudniej będzie się niepożadanym osobom włamać na twoje konto.
@@ -72,7 +72,7 @@ Hasło jest bardzo ważnym elementem zabezpieczającym. Pamiętaj im trudniejsze
 
 Opcjonalnie w nastepnym kroku możemy dodać adres pomocniczy. Jest to adres, który zostanie użyty, aby skontaktować się z Tobą w razie wykrycia nietypowej aktywności na Twoim koncie lub pomóc Ci w odzyskaniu dostępu do niego.
 
-### 6. Uzupełnij dodatkowe informacje o koncie.
+### 6. Uzupełnij dodatkowe informacje o koncie
 
 ![](./public/adress.png)
 
@@ -84,11 +84,11 @@ Google będzie używać tego numeru tylko do zabezpieczania konta. Nie będzie o
 
 ![](./public/phone.png)
 
-Jednym z końcowych kroków jest sprawdzenie sowich danych.
+Jednym z końcowych kroków jest sprawdzenie swoich danych.
 
 ![](./public/info.png)
 
-### 7. Skonfiguruj ustawienia konta, jeśli to konieczne.
+### 7. Skonfiguruj ustawienia konta, jeśli to konieczne
 
 Na sam koniec zostaniemy poproszeni o wybranie ustawień personalizacji. Mamy dwa wybory. 
 
