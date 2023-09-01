@@ -4,7 +4,7 @@ outline: deep
 
 # Zakładanie konta mailowego - Gmail
 
-Zakładanie konta mailowego na platformie **www.gmail.com** krok po kroku. Na wstępie zostaną pokazane wszystkie kroki w skrócie a nastepnie zostaną wszystkie szczegółowo opisane wraz z poglądowymi zdjęciami. 
+Zakładanie konta mailowego na platformie **www.google.com** krok po kroku. Na wstępie zostaną pokazane wszystkie kroki w skrócie a nastepnie zostaną wszystkie szczegółowo opisane wraz z poglądowymi zdjęciami. 
 
 ## Kroki w skrócie:
 
@@ -24,11 +24,11 @@ Zakładanie konta mailowego na platformie **www.gmail.com** krok po kroku. Na ws
 
 Uruchom swoją ulubioną przeglądarkę internetową (np. Google Chrome, Mozilla Firefox, Microsoft Edge).
 
-::: info
+::: info Informacja
 Poczta gmail powinna działać bez problemów na wszystkich przeglądarkach  
 :::
 
-::: danger
+::: danger Uwaga
 Jeżeli strona nie wyświetla się prawidłowo sprawdź czy masz włączone skrypy JavaScript ponieważ strona z nich korzysta.
 :::
 
@@ -42,7 +42,7 @@ W pasku adresu przeglądarki wpisz ["www.google.com"](https://www.google.com/int
 
 Aby korzystać z gmail-a musimy stworzyć konto googla. Jest ono powiązane z działaniem naszego adresu mailowego.
 
-::: tip
+::: tip Wskazówka
 Utworzenie konta googla pozwala korzystać nam z wielu narzędzi udostepnionych wraz ze stworzeniem konta googla. W tym gmail, google sheets, google meet i wiele wiele więcej.
 :::
 
@@ -78,7 +78,7 @@ Opcjonalnie w nastepnym kroku możemy dodać adres pomocniczy. Jest to adres, kt
 
 Opcjonalnym wyborem jest również dodanie numeru telefonu.
 
-::: info
+::: info Informacja
 Google będzie używać tego numeru tylko do zabezpieczania konta. Nie będzie on widoczny dla innych osób. Później możesz określić, czy numer ma być używany do innych celów.
 :::
 
@@ -92,7 +92,7 @@ Jednym z końcowych kroków jest sprawdzenie swoich danych.
 
 Na sam koniec zostaniemy poproszeni o wybranie ustawień personalizacji. Mamy dwa wybory. 
 
-::: tip
+::: tip Wskazówka
 Warto poświęcić ustawieniom trochę czasu. Związane jest to z dopasowaniem wyświetlania treści i reklam.
 :::
 
@@ -102,7 +102,7 @@ Warto poświęcić ustawieniom trochę czasu. Związane jest to z dopasowaniem w
 
 Po wprowadznieu danych i wstepnym skonfigurowaniu konta potwierdzamy ustawienia personalizacji i użycie plików cookie
 
-::: info
+::: info Informacja
 Google może za parę tygodni przypomnieć abyś sprawdził ustawienia.
 :::
 

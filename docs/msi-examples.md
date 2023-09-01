@@ -24,7 +24,7 @@ Aplikować o pracę za pomocą CV rozpoczynając od strony głównej https://e-m
 
 Uruchom swoją ulubioną przeglądarkę internetową (np. Google Chrome, Mozilla Firefox, Microsoft Edge).
 
-::: danger
+::: danger Uwaga
 Jeżeli strona nie wyświetla się prawidłowo sprawdź czy masz włączone skrypy JavaScript ponieważ strona z nich korzysta.
 :::
 
@@ -46,7 +46,7 @@ Na podstronie kariery warto zapoznać się z obecnymi ofertami pracy, oferowanym
 
 ### 5. Kliknij przycisk "Wyślij swoje CV"
 
-Jeżeli została podjęta decyzja o aplikowaniu o pracę, mamy możliwość przejść do formularza zgłoszeniowego w kilku miejscach. 
+Jeżeli została podjęta decyzja o aplikowaniu o pracę, mamy możliwość przejścia do formularza zgłoszeniowego w kilku miejscach. 
 
 1. Pierwszym jest klikalny "box" z informacją "Wyślij swoje CV"
 
@@ -56,7 +56,7 @@ Jeżeli została podjęta decyzja o aplikowaniu o pracę, mamy możliwość prze
 
 ![](./public/cv2.png)
 
-3. Trzecią miejscem przycisk w lewym dolnym rogu w sekcji "Jak do nas dołączyć ?"
+3. Trzecią możliwością przycisk w lewym dolnym rogu w sekcji "Jak do nas dołączyć ?"
 
 ![](./public/cv3.png)
 
@@ -74,7 +74,7 @@ Po wpisaniu danych warto dodać swoje CV. CV możemy dodać na dwa sposoby, popr
 
 ![](./public/form2.png)
 
-::: info 
+::: info Format pliku CV
 Zawsze zapisuj CV w PDF. To da Ci pewność, że dokument nie straci formatowania. Nie chcesz przecież, żeby misternie zaprojektowany życiorys stracił na wartości. Jeśli zapisz CV w formacie Word, możesz zniweczyć swoje starania o idealny format CV. 
 
 CV w formacie PDF wygląda bardziej profesjonalnie. Musisz unikać formatów, które dają odwrotne wrażenie, takich jak JPG or PNG, PSD, INDD czy AI. Jeśli rekruter nie używa któregoś z programu graficznych, po prostu nie będzie mógł nawet otworzyć Twojego dokumentu.  
