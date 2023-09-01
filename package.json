@@ -1,4 +1,9 @@
 {
+  "name": "e_msi-docs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digital-knight1103/vitepress-docs"
+  },
   "type": "module",
   "devDependencies": {
     "vitepress": "^1.0.0-rc.10"
