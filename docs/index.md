@@ -8,6 +8,9 @@ hero:
   tagline: Zadania Technical Copywriter / Tester 
   actions:
     - theme: brand
+      text: e_msi
+      link: https://e-msi.pl/
+    - theme: alt
       text: Aplikowanie e_msi
       link: /msi-examples
     - theme: alt

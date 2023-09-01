@@ -28,6 +28,10 @@ Uruchom swoją ulubioną przeglądarkę internetową (np. Google Chrome, Mozilla
 Poczta gmail powinna działać bez problemów na wszystkich przeglądarkach  
 :::
 
+::: danger
+Jeżeli strona nie wyświetla się prawidłowo sprawdź czy masz włączone skrypy JavaScript ponieważ strona z nich korzysta.
+:::git 
+
 ### 2. Przejdź na stronę główną Googla.
 
 W pasku adresu przeglądarki wpisz ["www.google.com"](https://www.google.com/intl/pl/gmail/about/) i potwierdź lub kliknij na podany link. Strona główna platformy Google powinna się załadować.

@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Aplikowanie o pracę **https://e-msi.pl/**
+# Aplikowanie o pracę **e-msi.pl**
 
 Aplikować o pracę za pomocą CV rozpoczynając od strony głównej https://e-msi.pl/ krok po kroku.
 
@@ -23,6 +23,10 @@ Aplikować o pracę za pomocą CV rozpoczynając od strony głównej https://e-m
 ### 1. Otwórz przeglądarkę internetową:
 
 Uruchom swoją ulubioną przeglądarkę internetową (np. Google Chrome, Mozilla Firefox, Microsoft Edge).
+
+::: danger
+Jeżeli strona nie wyświetla się prawidłowo sprawdź czy masz włączone skrypy JavaScript ponieważ strona z nich korzysta.
+:::
 
 ### 2. Przejdź na stronę główną e-msi.pl
 
